@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hi there, I'm Sharanabasappa Dubale 👋
+# Hi there, I'm Sharanabasappa 👋
 
 ### 🎓 B.Tech Student | Artificial Intelligence & Machine Learning
-### 💻 Python Developer | Machine Learning Enthusiast | Open Source Learner
+### 🤖 Machine Learning Enthusiast | Future AI Engineer | Open Source Learner
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;AI+%26+Machine+Learning+Student;Python+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;AI+%26+Machine+Learning+Student;Always+Learning+New+Technologies" />
 
 </div>
 
@@ -24,6 +24,7 @@
 - Data Structures & Algorithms
 - SQL
 - Java
+- Python
 - Web Development
 
 🎯 Goal
@@ -37,6 +38,10 @@
 
 ### Programming Languages
 
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -79,6 +84,8 @@
 
 ✔ Linear Regression Model
 
+✔ Fake News Detection 
+
 ✔ Interactive Score Prediction
 
 ✔ Grade Prediction System
@@ -108,7 +115,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Sharanabasappa18)
 
 ---
 
